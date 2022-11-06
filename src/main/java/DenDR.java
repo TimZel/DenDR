@@ -22,7 +22,7 @@ public class DenDR {
 
             String phrase = wordListOne[rand1] + " " + wordListTwo[rand2] + " " + wordListThree[rand3] + wordListFour[rand4];
 
-            System.out.println("Цэ " + phrase);
+            System.out.println(phrase);
         }
     }
 
