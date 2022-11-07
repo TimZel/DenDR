@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class DenDR {
         public static void main(String[] args) {
-            String[] wordListOne = {"Уважаемый"};
+            String[] wordListOne = {"Уважаемый!"};
             String[] wordListTwo = {"Денис Анатольевич, "};
             String[] wordListThree = {"С Юбилеем!", "С Праздником!", "С Днём Рождения!", "С Днюхой!", "С Юбилейным!",
                     "С нетривиальной датой!", "С XXXX!", "С 40-м кольцом на срезе!"};
